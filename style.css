@@ -16,9 +16,6 @@
     background-color: white;
     width: 13%;
  }
- #übers {
-    border: 5px solid yellow;
- }
  #hal {
     font-size: 30px;
  }
@@ -33,3 +30,6 @@
  #hal3 {
     font-size: 25px;
  }
+#img1{
+   height: 300px;
+}
